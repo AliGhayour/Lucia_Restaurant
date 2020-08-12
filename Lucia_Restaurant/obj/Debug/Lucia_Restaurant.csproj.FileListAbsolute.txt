@@ -1,0 +1,7 @@
+C:\Users\61433\Desktop\Lucia_Restaurant\Lucia_Restaurant\bin\Debug\Lucia_Restaurant.exe.config
+C:\Users\61433\Desktop\Lucia_Restaurant\Lucia_Restaurant\bin\Debug\Lucia_Restaurant.exe
+C:\Users\61433\Desktop\Lucia_Restaurant\Lucia_Restaurant\bin\Debug\Lucia_Restaurant.pdb
+C:\Users\61433\Desktop\Lucia_Restaurant\Lucia_Restaurant\obj\Debug\Lucia_Restaurant.csprojAssemblyReference.cache
+C:\Users\61433\Desktop\Lucia_Restaurant\Lucia_Restaurant\obj\Debug\Lucia_Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\61433\Desktop\Lucia_Restaurant\Lucia_Restaurant\obj\Debug\Lucia_Restaurant.exe
+C:\Users\61433\Desktop\Lucia_Restaurant\Lucia_Restaurant\obj\Debug\Lucia_Restaurant.pdb
